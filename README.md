@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- 动态纽约天际线（SVG动画，可直接显示） -->
-  <img src="https://cdn.jsdelivr.net/gh/ahmadawais/Shades-of-Purple/vscode/images/nyc-skyline.svg" alt="纽约城市天际线（动态）" width="800" height="300" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/nyc-skyline.svg" alt="纽约夜景动态SVG" width="800" height="300" />
   
   <!-- 装饰分隔线 -->
   <p align="center">
@@ -12,10 +12,10 @@
 
 
 ## 🗽 About Me
-- 🌆 Based in [你的城市] (but my screen is always showing NYC skyline)
-- 💻 Working on: [你的项目描述，比如「Full-Stack Web Apps」]
-- 📚 Learning: [你在学的内容，比如「Cloud Native & Animation Design」]
-- 🎯 Goal: [你的目标，比如「Build products that shine like NYC night lights」]
+- 🌆 Based in:不知道
+- 💻 Working on:不知道
+- 📚 Learning: 前端、深度学习、网络安全、游戏开发
+- 🎯 Goal: 当一个菜鸟
 
 
 ## 🛠️ Tech Stack
@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[你的GitHub用户名]&theme=tokyonight&hide_border=true" alt="Streak Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[luolita13]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[luolita13]&theme=tokyonight&hide_border=true" alt="Streak Stats" width="45%" />
 </div>
 
 
