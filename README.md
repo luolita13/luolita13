@@ -1,8 +1,7 @@
 # 👋 Hi, I'm luolita13
 
 <div align="center">
-  <!-- 动态纽约天际线（SVG动画，可直接显示） -->
-  <img src="https://i.giphy.com/media/3o7TKUvBc6T9K8W4ic/giphy-downsized-large.gif" alt="纽约天际线流光动图" width="800" height="300" />
+ 
   
   <!-- 装饰分隔线 -->
   <p align="center">
@@ -19,15 +18,8 @@
 
 
 ## 🛠️ Tech Stack
-<div align="center">
-  不知道
-  <!--
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
-  -->
-</div>
+- 不知道
+
 
 
 ## 📊 GitHub Stats
