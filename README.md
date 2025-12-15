@@ -31,7 +31,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luolita13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
+  <!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luolita13&theme=tokyonight&hide_border=true" alt="Streak Stats" width="45%" />
+  -->
 </div>
 
 
