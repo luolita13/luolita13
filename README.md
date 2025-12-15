@@ -34,5 +34,5 @@
 <!-- 底部装饰 -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" />
-  <p>Last updated: 2025.12.15 | Powered by NYC Skyline Vibes</p>
+  <p>Last updated: 2025.12.15 | Powered by luolita13 </p>
 </div>
