@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- 动态纽约天际线（SVG动画，可直接显示） -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/nyc-skyline.svg" alt="纽约夜景动态SVG" width="800" height="300" />
+  <img src="https://i.giphy.com/media/3o7TKUvBc6T9K8W4ic/giphy-downsized-large.gif" alt="纽约天际线流光动图" width="800" height="300" />
   
   <!-- 装饰分隔线 -->
   <p align="center">
