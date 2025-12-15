@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [你的昵称]
+# 👋 Hi, I'm luolita13
 
 <div align="center">
   <!-- 动态纽约天际线（SVG动画，可直接显示） -->
@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[luolita13]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[luolita13]&theme=tokyonight&hide_border=true" alt="Streak Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luolita13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luolita13&theme=tokyonight&hide_border=true" alt="Streak Stats" width="45%" />
 </div>
 
 
