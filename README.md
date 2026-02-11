@@ -10,25 +10,6 @@
 </div>
 
 
-## 🗽 About Me
-- 🌆 Based in:不知道
-- 💻 Working on:不知道
-- 📚 Learning: 前端、深度学习、网络安全、游戏开发
-- 🎯 Goal: 当一个菜鸟
-
-
-## 🛠️ Tech Stack
-- 不知道
-
-
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luolita13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
-  <!--
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luolita13&theme=tokyonight&hide_border=true" alt="Streak Stats" width="45%" />
-  -->
-</div>
 
 
 <!-- 底部装饰 -->
